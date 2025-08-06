@@ -55,7 +55,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onScrollToNext }) => {
           transition={{ delay: 1.2, duration: 0.8 }}
         >
           <p className="text-2xl md:text-3xl text-slate-700 font-light mb-4">
-            Full Stack Developer
+          
           </p>
           <div className="w-24 h-px bg-slate-400 mx-auto" />
         </motion.div>
