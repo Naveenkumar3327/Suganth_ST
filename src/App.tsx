@@ -56,7 +56,7 @@ function App() {
           >
             Suganth S T
           </motion.h1>
-          <p className="text-slate-600 mt-2 font-light">Loading portfolio...</p>
+          <p className="text-slate-600 mt-2 font-light"></p>
         </motion.div>
       </div>
     );
